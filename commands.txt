@@ -1,0 +1,10 @@
+Solve issue with first push 
+Error(error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/MamadouADIOP/DevelopOnAWSJava.git')
+git push origin HEAD:master
+Push first branch
+ git push -u origin HEAD:master
+Push first branch
+ git push -u origin HEAD:master
+Delete remote branch
+ git branch --delete --remotes origin/master
